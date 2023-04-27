@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>jpaLearn</name>
-	<description>Demo for JPA HIBERNATE</description>
+	<description>e</description>
 	<properties>
 		<java.version>19</java.version>
 	</properties>

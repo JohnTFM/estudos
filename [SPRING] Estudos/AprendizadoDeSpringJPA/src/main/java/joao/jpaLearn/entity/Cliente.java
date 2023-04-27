@@ -30,4 +30,9 @@ public class Cliente {
         descricaoCliente = clienteDados.descricaoCliente();
         produtos = clienteDados.produtos();
     }
+
+    public void atualizar(ClienteDados clienteDados) {
+        this.nome = clienteDados.nome();
+        this.descricaoCliente = clienteDados.descricaoCliente();
+    }
 }
