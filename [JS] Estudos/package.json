@@ -1,0 +1,22 @@
+{
+  "name": "excl",
+  "version": "0.0.1",
+  "description": "Projeto para testar library excel",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joao Gabriel Tavares All Rights Reserverd",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/helper-create-regexp-features-plugin": "^7.22.15",
+    "core-js": "^3.32.2",
+    "exceljs": "^4.3.0",
+    "regenerator-runtime": "^0.14.0"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
